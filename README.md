@@ -1,0 +1,2 @@
+A keylogger is a type of malicious software that covertly records keystrokes made on a computer or device without the user's knowledge. This enables cybercriminals to capture sensitive information such as passwords, credit card numbers, and personal messages. Keyloggers can pose a significant security threat as they can be used to steal confidential data and compromise the privacy of individuals. It is important for users to be vigilant and take measures to protect their devices from being infected by keyloggers.
+
